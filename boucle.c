@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <math.h>
 
-int main() {
+int main() { 
 	//boucle for
 	int somme = 0;
 	int i = 1;

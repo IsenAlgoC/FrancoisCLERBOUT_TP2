@@ -9,7 +9,7 @@ int main() {
 	int devinette = rand()%100;
 	printf("%d\n", devinette);
 
-	//Saisie d'un nombre par l'utilisateur 
+	//Saisie d'un nombre par l'utilisateur  
 	printf("Veuillez saisir un nombre entier :\n");
 	scanf_s("%d", &joueur);
 
